@@ -33,7 +33,7 @@ I'm a Software Engineer based in Sana'a, Yemen, specializing in mobile and web a
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazen-Almortada&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazen-almortada&show_icons=true&locale=en&layout=compact" />
 </p>
 
 ![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazen-Almortada&show_icons=true&theme=radical)
