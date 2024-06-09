@@ -1,21 +1,36 @@
-## Hey there, I'm Mohammed Khalifa! 🌟
+# Hello, I'm Mazen Al-Murtada! 👋
 
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300">
+## 🧑‍💻 About Me
+I'm a Software Engineer based in Sana'a, Yemen, specializing in mobile and web application development. With a robust background in software engineering, I am skilled in Flutter, Laravel, Vue.js, and WordPress. I am always eager to explore new technologies and integrate AI into my projects to drive innovative solutions.
 
-- 🔥 Developer & Innovator focusing on building **impactful technologies**
-- 📚 Currently diving deeper into **Flutter Advanced Techniques** and **Renewable Energy**
-- 🚀 Collaborating on projects related to **mobile development** and **environmental sustainability**
-- 🎮 Fun fact: I'm a professional PUBG player in my downtime
+🎓 Bachelor of Information Technology from Saba University, 2022.
 
-### 🛠 Tech Stack
-- **Programming:** Dart | JavaScript | HTML | CSS
-- **Frameworks:** Flutter | Firebase
-- **Tools:** VS Code | Git | GitHub
-- **Cloud:** AWS | Google Cloud
+## 🌟 What I Do
+- 🔭 Developing mobile applications using **Flutter**, focusing on seamless user experiences.
+- 🌐 Crafting responsive websites and handling backend tasks with **Laravel**, **Vue.js**, and **WordPress**.
+- 📈 Integrating **APIs**, **Firebase**, and **State Management** techniques for scalable app development.
+- 🤖 Exploring **AI integration** into mobile and web projects to enhance functionality and user engagement.
 
-### 📈 GitHub Stats
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=algolia&show_icons=true)
+## 🛠 Technologies & Tools
+- **Mobile Development**: Flutter, Dart, Firebase, Bloc, Getx, Hive, sqflite
+- **Web Development**: Frappe, Laravel, Vue.js, WordPress
+- **APIs & Cloud**: RESTful APIs, Google Maps, Cloud Messaging
+- **Database**: Firebase, Local Databases
+- **Principles & Patterns**: SOLID, DRY, KISS, Clean Architecture, TDD, DDD
+- **Misc**: Git, GitHub, Windows Server administration
 
-### 📫 Get in Touch
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+## 🚀 Projects
+- **AccurPluse App**: An app for electricity companies, enhancing operations through offline capabilities and real-time communication.
+- **Smart Cradle System**: A comprehensive child monitoring system with environment sensing and remote monitoring via mobile app.
+- **Library Management System (Frappe)**: Developed a scalable library management system facilitating efficient administration.
+- **Other Notable Projects**: Expenses Tracker (Vue.js), Blog Website (Laravel), SPNote App (Flutter)
+
+## 📫 How to Reach Me
+- **Email**: [abobedro90@gmail.com](mailto:abobedro90@gmail.com)
+- **Phone**: +967 772 865 058
+
+## 📊 My GitHub Stats
+![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+Feel free to connect with me on LinkedIn or check out my repositories for a deeper insight into my projects and coding style.
+
