@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Mohammed Khalifa
+
+### Hi there 👋
+I'm a passionate developer focused on efficiency and making a difference through technology. I love building things and learning new technologies.
+
+- 🌱 I’m currently learning everything about **Cloud Technologies and Advanced Flutter Features**
+- 💬 Ask me about **Flutter, Web Development, and Solar Energy Solutions**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: I'm a huge fan of sci-fi novels and PUBG.
+
+### Languages and Tools:
+- Flutter
+- Dart
+- Firebase
+- AWS
+- Git
+
+![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=your-github-username&hide=contribs,prs)
