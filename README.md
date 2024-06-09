@@ -32,8 +32,8 @@ I'm a Software Engineer based in Sana'a, Yemen, specializing in mobile and web a
 - **Phone**: +967 772 865 058
 
 ## 📊 My GitHub Stats
+![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mazen-almortada&show_icons=true&locale=en&theme=radical)
 ![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazen-Almortada&show_icons=true&theme=radical)
-![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mazen-almortada&show_icons=true&locale=en&layout=compact&theme=radical)
 ![Mazen's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mazen-almortada&theme=radical)
 
 Feel free to connect with me on LinkedIn or check out my repositories for a deeper insight into my projects and coding style.
