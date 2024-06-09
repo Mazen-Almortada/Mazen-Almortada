@@ -2,7 +2,7 @@
 # Hello, I'm Mazen Al-Murtada! 👋
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952a5csar5mw9vuxjr88vzl9qssnnmhabqk7zu7b1mq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70%" height="auto"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952a5csar5mw9vuxjr88vzl9qssnnmhabqk7zu7b1mq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" height="auto"/>
 </p>
 
 ## 🧑‍💻 About Me
@@ -35,7 +35,7 @@ I'm a Software Engineer based in Sana'a, Yemen, specializing in mobile and web a
 - **Phone**: +967 772 865 058
 
 ## 📊 My GitHub Stats
-![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazen-Almortada&show_icons=true&theme=radical)
 
 Feel free to connect with me on LinkedIn or check out my repositories for a deeper insight into my projects and coding style.
 
