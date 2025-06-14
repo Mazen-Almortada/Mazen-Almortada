@@ -1,5 +1,5 @@
 
-# Hello, I'm Mazen Al-Murtada! 👋
+# Hello, I'm Mazen Al-Mortada! 👋
 
 <p align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952a5csar5mw9vuxjr88vzl9qssnnmhabqk7zu7b1mq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" height="auto"/>
