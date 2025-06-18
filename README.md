@@ -30,10 +30,9 @@ I'm a Software Engineer specializing in Frappe development and Flutter mobile ap
 - Collaborate effectively to create impactful digital products.
 
 ## 📫 How to Reach Me
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="20" height="15"/> [abobedro90@gmail.com](mailto:abobedro90@gmail.com)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" width="20" height="15"/> [@m_j.8](https://instagram.com/m_j.8)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" alt="Telegram" width="20" height="15"/> [@apopedro](https://t.me/apopedro)
-
+* <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="15" height="15"/> [abobedro90@gmail.com](mailto:abobedro90@gmail.com)
+* <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="15" height="15"/> [@m_j.8](https://instagram.com/m_j.8)
+* <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="15" height="15"/> [@apopedro](https://t.me/apopedro)
 
 ## 📊 My GitHub Stats
 <p align="center">
