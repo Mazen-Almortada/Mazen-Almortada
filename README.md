@@ -136,12 +136,6 @@ I build tailored software that solves real problems — from ERP backends to pol
   <img height="180" src="https://gh-stats.work/api/top-langs/?username=mazen-almortada&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazen-almortada&theme=github_dark" height="200" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazen-almortada&theme=github_dark" height="200" alt="Most commit language" />
-</div>
 
 <br/>
 
@@ -167,15 +161,15 @@ I build tailored software that solves real problems — from ERP backends to pol
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mazen-almortada/mazen-almortada/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Mazen-Almortada/Mazen-Almortada/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mazen-almortada/mazen-almortada/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/Mazen-Almortada/Mazen-Almortada/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="github-snake"
-      src="https://raw.githubusercontent.com/mazen-almortada/mazen-almortada/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Mazen-Almortada/Mazen-Almortada/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
