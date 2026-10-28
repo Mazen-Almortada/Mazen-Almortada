@@ -126,12 +126,6 @@ I build tailored software that solves real problems — from ERP backends to pol
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.deno.dev/?username=mazen-almortada&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
   <img height="180" src="https://gh-stats.work/api?username=mazen-almortada&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
   <img height="180" src="https://gh-stats.work/api/top-langs/?username=mazen-almortada&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
